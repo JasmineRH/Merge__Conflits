@@ -1,3 +1,4 @@
+REMOTE
 # Merge__Conflits
 Git/GitHub 5 : Merge &amp; Conflits
 Quête 5 Git Merge et Conflits Git pull, une commande qui te veut du bien :
